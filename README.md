@@ -4,19 +4,19 @@ An interactive Streamlit web application for exploring and visualizing sales and
 # Features
 Clean and preprocess the Superstore dataset
 
-#Sidebar filters for:
+## Sidebar filters for:
 
 Region selection
 
 Product name selection
 
-#Visual KPIs:
+## Visual KPIs:
 
 Total Sales
 
 Total Profit
 
-#Visualizations:
+## Visualizations:
 
 Top 5 Customers by Sales (Bar Chart)
 
