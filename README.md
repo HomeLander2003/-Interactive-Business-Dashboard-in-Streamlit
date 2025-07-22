@@ -1,7 +1,7 @@
- Superstore Sales Dashboard
+# Superstore Sales Dashboard
 An interactive Streamlit web application for exploring and visualizing sales and profit data from a Superstore dataset. Includes KPI metrics, bar charts, and filtering options.
 
- Features
+# Features
 Clean and preprocess the Superstore dataset
 
 Sidebar filters for:
